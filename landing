@@ -17,8 +17,8 @@
     }
   </style>
 </head>
-<body>
-  <div>Content coming soon ...</div>
-  <div>anti.hustle.culture</div>
+<body style="background:black; color:white;">
+  <h1>TEST</h1>
+  <p>Wenn du das siehst, funktioniert alles.</p>
 </body>
 </html>
