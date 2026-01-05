@@ -1,24 +1,16 @@
 <!DOCTYPE html>
-<html lang="de">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>Coming Soon</title>
-  <style>
-    body {
-      margin: 0;
-      background: black;
-      color: white;
-      height: 100vh;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      font-family: Arial, sans-serif;
-    }
-  </style>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
 </head>
-<body style="background:black; color:white;">
-  <h1>TEST</h1>
-  <p>Wenn du das siehst, funktioniert alles.</p>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
 </body>
 </html>
